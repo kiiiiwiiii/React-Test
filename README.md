@@ -3,7 +3,7 @@
 ![alt](https://i.imgur.com/i2pmojo.gif)
 
 You have been given the task of making a TODO list page. A table should show which items belong to which person and whether or not they have been completed. To avoid having a huge table, it must be accompanied by a paging system. Last but not least, we want to add items to the list. Adding items to the list is a local operation, which means that no POST request is made to add the item, it just needs to be added to the table.
-You have one hour to complete as many of the following requirments as possible. But first, don't forget to read the rules bellow.
+You have one hour to complete as many of the following requirments as possible. But first, don't forget to read the rules bellow. Use this codesandbox as a starting point: `https://codesandbox.io/s/new`
 
 ## Rules
 
@@ -65,4 +65,3 @@ A loading screen should appear while the data is being fetched.
 ![alt](https://i.imgur.com/dSB9yLE.gif)
 
 A error screen should appear if there was an issue loading the data. (You can use Offline mode in Chrome developper console to try this one out)
-
