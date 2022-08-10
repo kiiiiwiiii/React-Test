@@ -59,6 +59,7 @@ As you can see bellow, when an item is added to the list it must appear at the t
 ![alt](https://i.imgur.com/jTl8EkD.gif)
 
 A loading screen should appear while the data is being fetched.
+Don't forget to add a `Reload` button.
 
 ### Error
 
